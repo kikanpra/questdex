@@ -1,0 +1,6 @@
+{
+  "name": "QuestPack - Collectible Learning Cards",
+  "description": "Aplikasi kuis pembelajaran universitas berbasis collectible booster pack, kartu soal interaktif, grading otomatis, dan QuestDex collection catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
